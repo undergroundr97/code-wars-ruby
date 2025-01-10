@@ -4,7 +4,7 @@
 # Task
 # Given an array/list [] of integers , Find all the LEADERS in the array.
 
-
+# Solution 
 def array_leaders(numbers)
   leaders = []
   numbers.each_with_index do |num, index|
